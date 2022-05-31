@@ -15,4 +15,5 @@ $ php artisan queue:work
 ```
 
 ##Postman Collection
-``https://app.getpostman.com/join-team?invite_code=b99cf0856b357c778790d42d8d7ddd1b&ws=0f0ec824-be57-4cdd-b42a-3edbe996a5f0``
+
+``https://documenter.getpostman.com/view/19162606/Uz5DpxKJ``
